@@ -1,0 +1,14 @@
+plugin-prefix: "&e[TpBow]"
+# Sets the plugin prefix.
+
+bow-added-message: "&b&lTeleport Bow was added to your inventory."
+# Sets the message when bow is added to a inventory.
+
+bow-name: "&5&lTeleport Bow"
+# Sets the name of the teleport bow.
+
+bow-description: "&e&oCan teleport you wherever the arrow lands."
+# Sets the description of the teleport bow.
+
+bow-on-join: true
+# true — adds a bow if a player joins the server, false — for opposite.

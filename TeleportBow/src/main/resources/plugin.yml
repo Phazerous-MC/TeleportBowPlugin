@@ -1,0 +1,11 @@
+name: TeleportBow
+version: 1.0
+main: me.phazerous.teleportbow.Main
+api-version: 1.16
+authors: [Phazerous]
+description: The plugin adds a teleport bow.
+
+commands:
+  teleportbow:
+    description: Adds a teleport bow into an inventory.
+    aliases: [tpbow, tpb]
